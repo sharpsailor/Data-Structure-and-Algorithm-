@@ -83,3 +83,7 @@ Insert/add in between
 //output
 [10,20,3000,300]->4
 ```
+```
+Subsequnces for abc:
+		_ _ _ , a _ _ ,a b _ ,a b c ,a _ c , _ b _ , _ b c , _ _ c i.e .2^3 
+```
