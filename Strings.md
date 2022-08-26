@@ -92,3 +92,6 @@ Substring : string without spaces  which of the dimension n*(n+1)/2
 for abc : a, ab , abc,b ,bc ,c
 
 ```
+```
+To retrive string values into numbers then charcter-'0'
+```
