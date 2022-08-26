@@ -87,3 +87,8 @@ Insert/add in between
 Subsequnces for abc:
 		_ _ _ , a _ _ ,a b _ ,a b c ,a _ c , _ b _ , _ b c , _ _ c i.e .2^3 
 ```
+``` 
+Substring : string without spaces  which of the dimension n*(n+1)/2
+for abc : a, ab , abc,b ,bc ,c
+
+```
