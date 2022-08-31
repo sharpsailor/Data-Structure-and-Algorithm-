@@ -35,3 +35,4 @@ public class Main{
 [10]->10 1
 []-> 0
 ```
+#### if there is no element left after poping in the stack , then empty stack exception occurs denoting no element to fetch in case of peek opertaion.
