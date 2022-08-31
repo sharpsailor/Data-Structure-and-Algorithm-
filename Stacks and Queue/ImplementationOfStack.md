@@ -1,7 +1,8 @@
 ## Basic Operations of a stack are 
-  - Push ->add elements 
-  - POP  ->remove elements 
-  - Peek ->fetch the top element
+  - Push ->add elements of stack
+  - POP  ->remove elements of stack
+  - Peek ->fetch the top element of stack
+  - size ->fetch the size of the stack
 ## Implementation
 
 ```
